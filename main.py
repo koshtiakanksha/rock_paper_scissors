@@ -25,7 +25,7 @@ scissors = '''
 ---.__(___)
 '''
 
-# Write your code below this line 👇
+
 import random
 
 guess = input("What do you want to select, rock, paper or scissors\n ").lower()
